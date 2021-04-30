@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(to right,#5433FF,#20BDFF,#A5FECB)
+}
+img.logo {
+    display: block;
+    margin: 0 auto;
+}
